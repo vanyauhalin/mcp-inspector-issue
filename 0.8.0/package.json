@@ -1,0 +1,10 @@
+{
+	"name": "mcp-inspector-issue",
+	"type": "module",
+	"scripts": {
+		"serve": "node ../serve.js"
+	},
+	"devDependencies": {
+		"@modelcontextprotocol/inspector": "0.8.0"
+	}
+}
